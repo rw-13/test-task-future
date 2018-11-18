@@ -1,0 +1,7 @@
+.mb-lg-40{margin-bottom:40px}.mb-lg-50{margin-bottom:50px}.mb-lg-80{margin-bottom:80px}.index{overflow-x:hidden}.index__promo{display:-webkit-box;display:-ms-flexbox;display:flex;height:860px;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;background:url(../images/bg-promo.png) 100% 40px no-repeat;background-size:inherit}.index__left{width:50%}.index__subtitle{display:block;margin-bottom:20px;font-family:'Open sans';font-weight:400;font-size:25px;color:#333;line-height:1.36}.index__tabs-container{-webkit-animation:fadeEffect .5s;animation:fadeEffect .5s}@-webkit-keyframes fadeEffect{from{opacity:0}to{opacity:1}}@keyframes fadeEffect{from{opacity:0}to{opacity:1}}/*!*
+ * ВНИМАНИЕ! Этот файл генерируется автоматически.
+ * Не пишите сюда ничего вручную, все такие правки будут потеряны при следующей компиляции.
+ * Правки без возможности компиляции ДОЛЬШЕ И ДОРОЖЕ в 2-3 раза.
+ * Нужны дополнительные стили? Создайте новый css-файл и подключите его к странице.
+ * Читайте ./README.md для понимания.
+ */
